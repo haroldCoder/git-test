@@ -2,7 +2,8 @@ input{
     border: 1px solid #ccc;
     padding: 5px;
 }
-button{
+#btn{
     padding: 5px;
     cursor: pointer;
+    background-color: rgb(255, 91, 255);
 }
